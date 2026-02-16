@@ -1,0 +1,27 @@
+  96 Malignant Neoplasms (Cancer: C00-C97)
+  96 Influenza (Flu) and Pneumonia (J09-J18)
+  96 All Other Causes
+  96 "Diseases of Heart (I00-I09
+  92 Diabetes Mellitus (E10-E14)
+  90 Cerebrovascular Disease (Stroke: I60-I69)
+  88 Chronic Lower Respiratory Diseases (J40-J47)
+  80 "Accidents Except Drug Posioning (V01-X39
+  75 "Essential Hypertension and Renal Diseases (I10
+  43 Human Immunodeficiency Virus Disease (HIV: B20-B24)
+  39 "Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16
+  38 "Intentional Self-Harm (Suicide: X60-X84
+  32 Alzheimer's Disease (G30)
+  29 "Chronic Liver Disease and Cirrhosis (K70
+  26 Certain Conditions originating in the Perinatal Period (P00-P96)
+  20 "Assault (Homicide: Y87.1
+  17 "Nephritis
+  13 Septicemia (A40-A41)
+   8 "Congenital Malformations
+   5 Viral Hepatitis (B15-B19)
+   5 Insitu or Benign / Uncertain Neoplasms (D00-D48)
+   3 Atherosclerosis (I70)
+   3 Aortic Aneurysm and Dissection (I71)
+   2 Mental and Behavioral Disorders due to Use of Alcohol (F10)
+   1 Tuberculosis (A16-A19)
+   1 Parkinson's Disease (G20)
+   1 Cause of Death
